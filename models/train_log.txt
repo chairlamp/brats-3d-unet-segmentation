@@ -1,0 +1,22 @@
+[uniform] 5,647,681 parameters, init hash 3ab1bbaff442, device mps
+[uniform] it   500  train 0.8174  val loss 0.4739  val Dice 0.7450  tumour patches 0.78  9.0 min
+[uniform] it  1000  train 0.3450  val loss 0.2903  val Dice 0.8013  tumour patches 0.80  15.9 min
+[uniform] it  1500  train 0.2856  val loss 0.2937  val Dice 0.7879  tumour patches 0.80  22.6 min
+[uniform] it  2000  train 0.2950  val loss 0.2207  val Dice 0.8385  tumour patches 0.79  29.3 min
+[uniform] it  2500  train 0.2633  val loss 0.2012  val Dice 0.8552  tumour patches 0.79  36.0 min
+[uniform] it  3000  train 0.2350  val loss 0.1850  val Dice 0.8640  tumour patches 0.79  42.7 min
+[uniform] it  3500  train 0.2263  val loss 0.1801  val Dice 0.8652  tumour patches 0.79  49.4 min
+[uniform] it  4000  train 0.2368  val loss 0.1747  val Dice 0.8710  tumour patches 0.77  56.1 min
+[uniform] it  4500  train 0.2245  val loss 0.1714  val Dice 0.8745  tumour patches 0.78  62.8 min
+[uniform] it  5000  train 0.2272  val loss 0.1687  val Dice 0.8759  tumour patches 0.79  69.7 min
+[tumour] 5,647,681 parameters, init hash 3ab1bbaff442, device mps
+[tumour] it   500  train 0.6953  val loss 0.6507  val Dice 0.6300  tumour patches 0.90  6.9 min
+[tumour] it  1000  train 0.3288  val loss 0.3838  val Dice 0.8007  tumour patches 0.90  14.1 min
+[tumour] it  1500  train 0.2670  val loss 0.3087  val Dice 0.8259  tumour patches 0.91  21.4 min
+[tumour] it  2000  train 0.2365  val loss 0.2996  val Dice 0.8046  tumour patches 0.89  29.8 min
+[tumour] it  2500  train 0.2254  val loss 0.2361  val Dice 0.8649  tumour patches 0.89  37.2 min
+[tumour] it  3000  train 0.2006  val loss 0.2461  val Dice 0.8451  tumour patches 0.90  47.0 min
+[tumour] it  3500  train 0.1924  val loss 0.2229  val Dice 0.8561  tumour patches 0.90  54.4 min
+[tumour] it  4000  train 0.1915  val loss 0.2042  val Dice 0.8712  tumour patches 0.89  63.7 min
+[tumour] it  4500  train 0.1887  val loss 0.2126  val Dice 0.8653  tumour patches 0.90  71.1 min
+[tumour] it  5000  train 0.1848  val loss 0.2050  val Dice 0.8707  tumour patches 0.90  78.5 min
